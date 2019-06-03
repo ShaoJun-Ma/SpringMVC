@@ -11,7 +11,7 @@
         <init-param>
             <!--contextConfigLocation：初始化配置文件的位置和名称-->
             <param-name>contextConfigLocation</param-name>
-            <param-value>classpath:bean04.xml</param-value>
+            <param-value>classpath:bean05.xml</param-value>
         </init-param>
     </servlet>
     <servlet-mapping>
